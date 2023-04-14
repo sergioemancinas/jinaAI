@@ -1,0 +1,21 @@
+.title {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding-left: 5px;
+  }
+  
+  .container {
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-left: 40px;
+    
+  
+  }
+  
+  .flex {
+    display: flex;
+    margin-bottom: 40px;
+    padding-top: 30px;
+    padding-left: 5px;
+  }
